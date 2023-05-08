@@ -1,0 +1,1 @@
+black solutions/list/*.py --line-length 80
